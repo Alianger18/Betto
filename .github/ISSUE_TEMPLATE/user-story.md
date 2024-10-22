@@ -7,13 +7,16 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
-   
+### Brief description
+* As a _[role]_  
+* I need** _[function]_
+* So that _[benefit]_
+ 
+ 
  ### Details and Assumptions
  * [document all what you know]
-   
+ 
+
  ### Acceptance Criteria  
    
  ```gherkin
